@@ -1,8 +1,11 @@
 {
     "java.project.sourcePaths": [
         "Tabuada/src",
+        "ParOuImpar/src",
         "Operacoes-Simples/src",
         "MediaAritimetica/src",
-        "PedindoPizza/src"
+        "DiasDeVida/src",
+        "Adivinha/src",
+        "Gasolina/src"
     ]
 }

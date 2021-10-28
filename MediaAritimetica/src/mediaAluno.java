@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mediaAluno {
+public class MediaAluno {
     public static void main(String[] args) {
         double n1, n2, n3, n4, media;
         Scanner getKeyb = new Scanner(System.in);
