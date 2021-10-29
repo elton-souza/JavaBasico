@@ -4,8 +4,10 @@
         "ParOuImpar/src",
         "Operacoes-Simples/src",
         "MediaAritimetica/src",
+        "Gasolina/src",
         "DiasDeVida/src",
+        "ConversaoDeTemperatura/src",
         "Adivinha/src",
-        "Gasolina/src"
+        "Baskhara/src"
     ]
 }
