@@ -12,11 +12,12 @@ public class Baskhara {
         c = lerTeclado.nextInt();
 
 
-        delta =  (b * b) + (-4 * (a * c));
+        delta =  (b * b)+(-4 * (a * c));
+        System.out.println(delta);
 
         if(delta >= 0){
-            x1 = ((-(b) + Math.sqrt(delta)) / 2 * a);
-            x2 = ((-(b) + Math.sqrt(delta)) / 2 * a);
+            x1 = ((-b) + Math.sqrt(delta)) / (2 * a);
+            x2 = ((-b) - Math.sqrt(delta)) / (2 * a);
             System.out.print("X1 = "+x1+"\nX2 = "+x2);
         }else{
             System.out.println("Delta = "+ delta);
